@@ -1,0 +1,5 @@
+ {    "Countries": ["SPAIN", "GEORGIA", "FRANCE", "ENGLAND", "MOLDOVA", "PORTUGAL"],
+    "Animal": ["DOG", "CAT", "COW"],
+    "Cities": ["LONDON", "PARIS", "TBILISI", "BATUMI", "BARCELONA", "ROME"],
+    "Movies": ["GOT", "PARIS", "TBILISI", "BATUMI", "BARCELONA", "ROME"]
+}
